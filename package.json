@@ -1,0 +1,15 @@
+{
+  "name": "gitpractices",
+  "version": "1.0.0",
+  "description": "Creating git paractices project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm start"
+  },
+  "author": "Ajmira Akter Anni",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
